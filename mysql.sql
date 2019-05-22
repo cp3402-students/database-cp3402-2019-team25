@@ -432,7 +432,7 @@ CREATE TABLE `wp_wpgmza` (
 
 LOCK TABLES `wp_wpgmza` WRITE;
 /*!40000 ALTER TABLE `wp_wpgmza` DISABLE KEYS */;
-INSERT INTO `wp_wpgmza` VALUES (1,1,'28 Michaelangelo Drive, Redlynch, Cairns, Queensland, Australia','','','','','-16.90365','145.69538','0','','0','',1,0,0,'','','\0\0\0\0\0\0\0\»=õU\Á0¿\\…éç@6b@');
+INSERT INTO `wp_wpgmza` VALUES (1,1,'28 Michaelangelo Drive, Redlynch, Cairns, Queensland, Australia','','','','','-16.90365','145.69538','0','','0','',1,0,0,'','','\0\0\0\0\0\0\0\ÔøΩ=ÔøΩU\ÔøΩ0ÔøΩ\\…éÔøΩ@6b@');
 /*!40000 ALTER TABLE `wp_wpgmza` ENABLE KEYS */;
 UNLOCK TABLES;
 
